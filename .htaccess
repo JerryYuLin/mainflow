@@ -1,0 +1,6 @@
+AddType application/x-httpd-php   .htm .html  .php   .php3  .php4 .php5
+php_value max_execution_time 300
+php_value max_input_time 300
+php_value memory_limit 200M
+php_value upload_max_filesize 100M
+php_value post_max_size 100M
